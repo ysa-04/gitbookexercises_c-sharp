@@ -7,13 +7,14 @@ Covers **complete Semester 1 Programming Principles**: OOP, methods, arrays, loo
 Part of my **Graduaat Programmeren portfolio**.
 
 ## 📚 Complete Course Structure
-Semester 1 Programming Principles:
-├── H1: Working With Visual Studio
-├── H2: Variables And DataTypes
-├── H3: Strings And Their Methods
-├── H4: Decisions (if/else, switch)
-├── H5: Loops (while, for, do-while)
-├── H6: Arrays & Lists<T>
-├── H7: Methods (parameters, return values)
-├── H8: Numerical Data (Math, Random)
-├── H9: Multidimensional Arrays
+| Semester 1 Programming Principles |
+| --------------------------------- |
+| H1: Working With Visual Studio |
+| H2: Variables And DataTypes |
+| H3: Strings And Their Methods |
+| H4: Decisions (if/else, switch) |
+| H5: Loops (while, for, do-while) |
+| H6: Arrays & Lists<T> |
+| H7: Methods (parameters, return values) |
+| H8: Numerical Data (Math, Random) |
+| H9: Multidimensional Arrays |
