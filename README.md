@@ -3,7 +3,7 @@
 Solutions to **all** C# programming exercises from AP Hogeschool's GitBook course:  
 [https://apwt.gitbook.io/programmeren](https://apwt.gitbook.io/programmeren)
 
-Covers **complete Semester 1 Programming Principles**: OOP, methods, arrays, loops, decisions, variables, input/output and console applications.  
+Covers **complete Semester 1 Programming Principles**: methods, arrays, loops, decisions, variables, input/output and console applications.  
 Part of my **Graduaat Programmeren portfolio**.
 
 ## 📚 Complete Course Structure
