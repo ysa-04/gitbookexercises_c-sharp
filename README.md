@@ -18,3 +18,13 @@ Part of my **Graduaat Programmeren portfolio**.
 | H7: Methods (parameters, return values) |
 | H8: Numerical Data (Math, Random) |
 | H9: Multidimensional Arrays |
+
+## Tech Stack
+- **Language**: C# (.NET Console Applications)
+- **IDE**: Visual Studio 2022
+- **Version Control**: Git / GitHub
+
+## Quick Start
+1. Clone this repo: `git clone https://github.com/Ysa-04/GitbookExercises_C-Sharp.git`
+2. Open solutions in Visual Studio 2022
+3. Build & Run: `F5`
